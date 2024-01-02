@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romeo M. Panis II</h1>
-<h3 align="center">An Aspiring Cloud Engineer with experience on creating Web Applications through NODEjs and Ruby on Rails</h3>
+<h3 align="center">An Aspiring Cloud Engineer with experience on developing Web Applications through NODEjs and Ruby on Rails</h3>
 
 - 🌱 I’m currently learning **ReactJS, VueJS, and Cloud Computing**
 
