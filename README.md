@@ -1,5 +1,4 @@
 <h1 align="center">ROMEO M. PANIS II</h1>
-<h3 align="center">An Aspiring Cloud Engineer with experience on developing Web Applications through NODEjs and Ruby on Rails</h3>
 <h3 align="center"><a href="https://romeo-portfolio.vercel.app">Visit my Web Portfolio</a></h3>
 - 🌱 I’m currently learning **ReactJS, VueJS, and Cloud Computing**
 
